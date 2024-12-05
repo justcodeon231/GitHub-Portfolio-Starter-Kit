@@ -1,7 +1,3 @@
-Here's the **README** for welcoming newcomers to your repo with an abrasively kind tone, including an intro about yourself and your journey:
-
----
-
 # **Welcome to My Repo!** 🎉🚀
 
 First off, **thanks for stopping by**! Whether you're here to learn, collaborate, or just check things out, I’m excited to have you. 👋
@@ -9,7 +5,7 @@ First off, **thanks for stopping by**! Whether you're here to learn, collaborate
 ---
 
 ## **Who Am I?** 🤔  
-I’m **Leo**, a self-taught tech enthusiast, entrepreneur, and all-around hustler. I’ve spent years diving deep into everything from **Python** to **AI**, and **business strategy**. You might know me from my YouTube channel **“Leo Ntluka - From Zero to R100 Million”** or from engaging with me on **Twitter**. 💬
+I’m **Leo**, a self-taught tech enthusiast, entrepreneur, and all-around hustler. I’ve spent years diving deep into everything from **Python** to **AI**, and **business strategy**. You might know me from my **Linkedin** or from engaging with me on **Twitter**. 💬
 
 But let’s keep it real: I didn’t just stumble into this knowledge. It wasn’t all smooth sailing. I got here through **hustle**, **sweat**, and yes, **a fair bit of failure**. I learned by doing, implementing, and networking with **killer people** in the tech and business world. 
 
@@ -25,9 +21,9 @@ In this repo, you’ll find a collection of projects, resources, and **tools** I
 ## **Why Should You Listen to Me?** 🤨  
 It’s simple: I’ve **done the work**. 💪
 
-- **YouTube**: I didn’t just watch a few tutorials. I watched *hundreds*. From **Alex Hormozi** to **Iman Gadzhi** — I consume knowledge on the daily. I’ve documented my journey, and now I’m sharing it here.
-- **Networking**: I’ve built meaningful relationships with **entrepreneurs**, **developers**, and **creators** from around the globe (Nigeria, USA, Lebanon). I know how to connect and **add value**.  
-- **Implementation**: Theory is nice, but results are better. I’ve launched products, run an **agency**, and built a **personal brand** on platforms like **Twitter**. I’ve **tested** everything I share here.
+- **YouTube**: I didn’t just watch a few tutorials. I watched *hundreds*. From **Alex Hormozi** to **TechwithTim** — I consume knowledge on the daily. I’ve documented my journey, and now I’m sharing it here.
+- **Networking**: I’ve built meaningful relationships with **entrepreneurs**, **developers**, and **creators** from around the globe (Nigeria, USA, Lebanon, UK). I know how to connect and **add value**.  
+- **Implementation**: Theory is nice, but results are better. I’ve launched products, ran an **agency**, and built a **personal brand** on platforms like **Twitter**. I’ve **tested** everything I share here.
 
 ---
 
