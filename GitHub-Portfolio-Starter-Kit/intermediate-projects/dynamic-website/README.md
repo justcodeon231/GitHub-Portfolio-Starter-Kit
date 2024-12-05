@@ -1,2 +1,2 @@
 ## Dynamic Website
-This project builds a dynamic website using Python and Flask.
+This project will be a dynamic website using Python and Flask.

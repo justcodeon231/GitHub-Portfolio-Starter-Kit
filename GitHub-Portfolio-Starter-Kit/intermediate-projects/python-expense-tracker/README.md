@@ -1,2 +1,2 @@
 ## Python Expense Tracker
-This Python project tracks expenses and generates reports.
+This Python project will track expenses and generates reports.
