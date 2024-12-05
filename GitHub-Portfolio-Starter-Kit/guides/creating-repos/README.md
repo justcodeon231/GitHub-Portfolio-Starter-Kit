@@ -129,10 +129,6 @@ Now get to work, make your repo shine, and **show the world what you’ve got**.
 
 ---
 
-Here’s a revised CTA that ties into the **7FigureLabs newsletter**:
-
----
-
 ### Ready to take your GitHub to the next level?  
 If you want more tips, exclusive insights, and actionable strategies to level up your coding and career, join my **7FigureLabs** newsletter. It's where I share the good stuff—strategies that actually work, for people who are ready to **scale their careers and businesses**.
 
